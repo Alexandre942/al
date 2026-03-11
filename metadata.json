@@ -1,0 +1,9 @@
+{
+  "name": "QUETANE IA - O Sistema Operacional de Riqueza",
+  "description": "Um ecossistema de IA de classe mundial projetado para operação global, geração estratégica de riqueza e gestão de ativos de alta performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
